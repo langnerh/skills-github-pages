@@ -1,4 +1,4 @@
 ---
-title: Welcome to my GitHub profile
+Hennessy Langner: Welcome to my GitHub profile
 ---
 
